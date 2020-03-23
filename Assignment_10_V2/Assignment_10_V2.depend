@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1530067176 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\parkedcar.cpp
+	"ParkedCar.h"
+
+1531840634 c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\parkedcar.h
+	<string>
+
+1530076020 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\parkingmeter.cpp
+	"ParkingMeter.h"
+	<string>
+
+1530076020 c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\parkingmeter.h
+	<string>
+
+1530077414 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\parkingticket.cpp
+	"ParkingTicket.h"
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	"PoliceOfficer.h"
+	<string>
+	<cmath>
+	<cstdio>
+	<sstream>
+
+1530076020 c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\parkingticket.h
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	"PoliceOfficer.h"
+	<string>
+
+1530152182 c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\policeofficer.h
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	<string>
+
+1530152182 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\policeofficer.cpp
+	"PoliceOfficer.h"
+
+1530344243 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 10\assignment_10_v2\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	"ParkingTicket.h"
+	"PoliceOfficer.h"
+
